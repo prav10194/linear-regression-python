@@ -1,6 +1,6 @@
 import csv
 from math import sqrt
-class LogisticRegression:
+class LinearRegression:
     filename=''
     def rsumvalue(self,inputList,numCol):
         rsum=[0]*numCol
